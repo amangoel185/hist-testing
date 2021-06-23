@@ -21,8 +21,8 @@ def test_categorical_plot():
     .Int64()
 )
 
-    testCat.fill(dataset = "A", good = np.random.normal(5, 1, 10))
-    testCat.fill(dataset = "B", good = np.random.normal(5, 1, 10))
+    testCat.fill(dataset = "A", good = np.random.normal(5, 9, 27))
+    testCat.fill(dataset = "B", good = np.random.normal(8, 1, 18))
 
     assert testCat.plot() == "called plot1d"
 
@@ -33,7 +33,7 @@ def test_integer_plot():
     .Reg(10, 0 ,10, name="good", label="y-axis")
     .Int64()
 )
-    testInt.fill(nice = np.random.normal(5, 1, 10), good = np.random.normal(5, 1, 10))
-    testInt.fill(nice = np.random.normal(5, 1, 10), good = np.random.normal(5, 1, 10))
+    testInt.fill(nice = np.random.normal(5, 27, 9), good = np.random.normal(8, 1, 36))
+    testInt.fill(nice = np.random.normal(9, 18, 10), good = np.random.normal(2, 7, 18))
     
     assert testInt.plot() == "called plot2d"
