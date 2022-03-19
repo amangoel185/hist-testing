@@ -4,7 +4,7 @@
 |<h2>**User Guide**</h2>|<h2>**Contents**</h2>|
 |Installation|Installation|
 |Quickstart|Quickstart|
-|**_missing_**|What's new|
+|removed (_to commit_)|removed (_to commit_)|
 |Axes|Axes|
 |Storages|Storages|
 |Accumulators|Accumulators|
@@ -19,10 +19,10 @@
 |Histogram|**_missing_**|
 |Stack|**_missing_**|
 |Interpolation|**_missing_**|
-|<h2>**Developers**</h2>|<h2>**missing**</h2>|
-|Contributing|**_missing_**|
-|Support|**_missing_**|
-|Changelog|**_missing_**|
+|<h2>**Developers**</h2>|<h2>**Developers**</h2> (_to commit_)|
+|Contributing|Contributing (_to commit_)|
+|Support|Support (_to commit_)|
+|Changelog|Changelog (_to commit_)|
 |<h2>**Examples**</h2>|<h2>**Examples**</h2>|
 |Hist Quick Demo|Simple Example|
 |**_missing_**|ROOT|
