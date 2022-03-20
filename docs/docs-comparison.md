@@ -9,7 +9,7 @@
 |Storages|Storages|
 |Accumulators|Accumulators|
 |Transform|Transform|
-|**_missing_**|Indexing|
+|Indexing (_to confirm and commit_)|Indexing|
 |Reprs in Jupyter|**_missing_**|
 |Plots|Plotting|
 |Analyses examples|Analyses examples|
