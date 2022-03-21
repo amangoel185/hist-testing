@@ -10,11 +10,11 @@
 |Accumulators|Accumulators|
 |Transform|Transform|
 |Indexing (_to confirm and commit_)|Indexing|
-|Reprs in Jupyter|**_missing_**|
+|Reprs in Jupyter|not aplicable (_to confirm_)|
 |Plots|Plotting|
 |Analyses examples|Analyses examples|
-|**_missing_**|NumPy|
-|**_missing_**|Subclassing|
+|Numpy (_to be reviewed_)|NumPy|
+|Subclassing (_to be reviewed_)|Subclassing|
 |**_missing_**|Comparison|
 |Histogram|**_missing_**|
 |Stack|**_missing_**|
