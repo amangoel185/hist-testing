@@ -17,8 +17,8 @@
 |Subclassing (_to be reviewed_)|Subclassing|
 |**_missing_**|Comparison|
 |Histogram|**_missing_**|
-|Stack|**_missing_**|
-|Interpolation|**_missing_**|
+|Stack|not aplicable (_to confirm_)|
+|Interpolation|not aplicable (_to confirm_)|
 |<h2>**Developers**</h2>|<h2>**Developers**</h2> (_to commit_)|
 |Contributing|Contributing (_to commit_)|
 |Support|Support (_to commit_)|
