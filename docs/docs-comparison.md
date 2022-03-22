@@ -15,7 +15,7 @@
 |Analyses examples|Analyses examples|
 |Numpy (_to be reviewed_)|NumPy|
 |Subclassing (_to be reviewed_)|Subclassing|
-|**_missing_**|Comparison|
+|Comparison (_to be reviewed_)|Comparison|
 |Histogram|**_missing_**|
 |Stack|not aplicable (_to confirm_)|
 |Interpolation|not aplicable (_to confirm_)|
