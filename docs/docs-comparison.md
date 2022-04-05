@@ -4,7 +4,7 @@
 |<h2>**User Guide**</h2>|<h2>**Contents**</h2>|
 |Installation|Installation|
 |Quickstart|Quickstart|
-|removed (_to commit_)|removed (_to commit_)|
+|(not needed)|What's new (removed)|
 |Axes|Axes|
 |Storages|Storages|
 |Accumulators|Accumulators|
@@ -13,16 +13,16 @@
 |Reprs in Jupyter|not aplicable (_to confirm_)|
 |Plots|Plotting|
 |Analyses examples|Analyses examples|
-|Numpy (_to be reviewed_)|NumPy|
+|Numpy (commited)|NumPy|
 |Subclassing (_to be reviewed_)|Subclassing|
 |Comparison (_to be reviewed_)|Comparison|
 |Histogram|**_missing_**|
 |Stack|not aplicable (_to confirm_)|
 |Interpolation|not aplicable (_to confirm_)|
-|<h2>**Developers**</h2>|<h2>**Developers**</h2> (_to commit_)|
-|Contributing|Contributing (_to commit_)|
-|Support|Support (_to commit_)|
-|Changelog|Changelog (_to commit_)|
+|<h2>**Developers**</h2>|<h2>**Developers**</h2>|
+|Contributing|Contributing|
+|Support|Support|
+|Changelog|Changelog|
 |<h2>**Examples**</h2>|<h2>**Examples**</h2>|
 |Hist Quick Demo|Simple Example|
 |**_missing_**|ROOT|
@@ -38,14 +38,14 @@ We should include the contents and use the structure of the boost-histogram docs
 - [x] accumulators.rst
 - [x] analyses.rst
 - [x] axes.rst
-- [ ] comparison.rst
+- [x] comparison.rst
 - [ ] histogram.rst
 - [x] index.rst
-- [ ] indexing.rst
+- [x] indexing.rst
 - [ ] installation.rst
-- [ ] numpy.rst
+- [x] numpy.rst
 - [ ] plotting.rst
 - [x] quickstart.rst
 - [x] storage.rst
-- [ ] subclassing.rst
+- [x] subclassing.rst
 - [ ] transforms.rst
