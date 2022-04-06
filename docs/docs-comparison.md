@@ -2,20 +2,20 @@
 |-----|----|
 |welcome|welcome|
 |<h2>**User Guide**</h2>|<h2>**Contents**</h2>|
-|Installation|Installation|
+|Installation (commited)|Installation|
 |Quickstart|Quickstart|
 |(not needed)|What's new (removed)|
 |Axes|Axes|
 |Storages|Storages|
 |Accumulators|Accumulators|
 |Transform|Transform|
-|Indexing (_to confirm and commit_)|Indexing|
-|Reprs in Jupyter|not aplicable (_to confirm_)|
+|Indexing (commited)|Indexing|
+|Reprs in Jupyter|not aplicable|
 |Plots|Plotting|
 |Analyses examples|Analyses examples|
 |Numpy (commited)|NumPy|
-|Subclassing (_to be reviewed_)|Subclassing|
-|Comparison (_to be reviewed_)|Comparison|
+|Subclassing (commited)|Subclassing|
+|Comparison (commited)|Comparison|
 |Histogram|**_missing_**|
 |Stack|not aplicable (_to confirm_)|
 |Interpolation|not aplicable (_to confirm_)|
